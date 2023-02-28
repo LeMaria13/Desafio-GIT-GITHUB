@@ -10,7 +10,7 @@
 
 - [ ] #### [Desenvolvimento básico em Java - DIO](https://web.dio.me/course/desenvolvimento-basico-em-java/learning/38d441ef-3c29-4ca4-9047-178603a8f656) **(Em Andamento ✳)**
 
-- [ ] #### [**Introdução ao JavaScript**](https://web.dio.me/course/introducao-ao-javascript/learning/ecf563b8-92b8-4061-95f3-66e32b1014cf) **(Em Andamento✳ )**
+- [x] #### [**Introdução ao JavaScript**](https://web.dio.me/course/introducao-ao-javascript/learning/ecf563b8-92b8-4061-95f3-66e32b1014cf) **(Em Andamento✳ )**
 
 
 
